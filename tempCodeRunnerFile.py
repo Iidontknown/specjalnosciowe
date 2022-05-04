@@ -1,1 +1,2 @@
-y+1
+
+        print(i,litera,licznik)
